@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "workflows",
+      "createdAt": "2022-06-18T16:26:54Z",
+      "url": "https://github.com/vishalmamidi/workflows",
+      "description": "Reusable GitHub Actions workflows for various automation operations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "GitHub Actions",
+          "iconifyClass": "logos:github-actions"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "Spring Native",
+      "createdAt": "2022-06-24T11:53:55Z",
+      "url": "https://github.com/vishalmamidi/spring-native",
+      "description": "Demo Spring Native project for showcasing native executables build using Spring Native",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Spring Native",
+          "iconifyClass": "logos:spring-icon"
+        },
+        {
+          "name": "Gradle",
+          "iconifyClass": "vscode-icons:file-type-light-gradle"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "aks-deploy",
+      "createdAt": "2020-06-19T14:24:55Z",
+      "url": "https://github.com/vishalmamidi/aks-deploy",
+      "description": "Demo Spring Native project for showcasing deployment into azure kubernetes services",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Spring Boot",
+          "iconifyClass": "logos:spring-icon"
+        },
+        {
+          "name": "Azure",
+          "iconifyClass": "logos:microsoft-azure"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Demo",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/vishalmamidi/demo",
+      "description": "This Project is for various feature testing like log4j2, Logback, Spring WebFlux, docker etc.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Spring Boot",
+          "iconifyClass": "logos:spring-icon"
+        },
+        {
+          "name": "Gradle",
+          "iconifyClass": "vscode-icons:file-type-light-gradle"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+      "name": "opencv-lane-detection",
+      "createdAt": "2019-08-13T13:13:00Z",
+      "url": "https://github.com/vishalmamidi/opencv-lane-detection",
+      "description": "This Project is to detect lanes on roads for self driving cars",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+      "name": "Portfolio",
+      "createdAt": "2022-07-28T17:25:51Z",
+      "url": "https://github.com/vishalmamidi/vishalmamidi.github.io",
+      "description": "My Portfolio Project",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "GitHub Actions",
+          "iconifyClass": "logos:github-actions"
+        }
+      ]
+    }
+  ]
+}
